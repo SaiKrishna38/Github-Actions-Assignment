@@ -7,4 +7,4 @@ assert is_leap_year(2016) == True
 assert is_leap_year(2020) == True
 assert is_leap_year(2019) == False
 assert is_leap_year(2021) == False
-print("✅ All tests passed successfully!")
+print("All tests passed successfully!")
